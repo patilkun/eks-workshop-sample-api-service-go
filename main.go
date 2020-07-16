@@ -17,7 +17,7 @@ type response struct {
 }
 
 func hello() string {
-	var helloInput string = "Demo CI/CD Workshop today with everyone!!"
+	var helloInput string = "Demo -- CI/CD with everyone!!"
 	return helloInput
 }
 
